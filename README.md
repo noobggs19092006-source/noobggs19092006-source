@@ -13,10 +13,10 @@ Building scalable full-stack web applications with Python and modern frontend fr
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=noobggs19092006-source&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=noobggs19092006-source&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=noobggs19092006-source&theme=aura&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=shadow_green)
 
 ---
 [![](https://komarev.com/ghpvc/?username=noobggs19092006-source&icon=2&color=3)](https://visitcount.itsvg.in)
